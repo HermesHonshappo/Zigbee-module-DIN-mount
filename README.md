@@ -4,6 +4,8 @@ This is a parametric casing to mount Zigbee Modules in a eletrical panel with a 
 - There is a slot to put a label to identify the module once the electrical panel is closed
 - The front should be aligned with your regular circuit breakers.  Warning: if the module is too "wide" (see Step 2 for measurements), it may require adjustments in the electrical panel cover.
 Typically, modules that are below 45mm wide should fit an electrical panel without problem.
+- It should require no supports. Will depend how your printer handles bridges.
+- It prints in about 1h on my Artillery Sidewinder X4+, using a 0.4 nozzle, and PLA+ filament. I used 3 walls, and 20% gyroid infill
 
 This is designed in FreeCAD, and can then be exported to STL to print on a classic FDM 3D printer
 
