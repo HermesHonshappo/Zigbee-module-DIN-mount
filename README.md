@@ -45,6 +45,9 @@ The 3D model should be recomputed automatically to match the values you input.
 ## Step 5
 Use this file with your usual slicer and print!
 
+Here are 3 module casings of different sizes made with this FreeCAD file:
+![IMG_20250415_165053_HDR](https://github.com/user-attachments/assets/60a47696-b7d4-4cb3-9d6b-1d62a5a76669)
+
 # Options
 ## Colored inserts for the Zigbee Logo
 
@@ -61,6 +64,6 @@ This can be used to print small inserts with a red material, and glue them into 
 
 - in the data on the bottom left:
   - adjust the `Thickness` parameter to increase or decrease the shell thickness. By default it is 2mm
-  - adjust the `Hole Compensation` depending on your 3D printer tolerance. Buy default, it is 0.5mm
+  - adjust the `Hole Compensation` depending on your 3D printer tolerance. Buy default, it is 0.2mm
 If the module is too loose in the casing, decrease this value. If the module has trouble getting in the casing, increase this value
 **Before you do this, please check your module measurements!**
