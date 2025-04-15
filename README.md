@@ -22,7 +22,7 @@ In the Addon Manager search bar, type 'DynamicData'
 Click to install, then close and relaunch FreeCAD
 
 ## Step 2
-Take the measurements below on the module **in millileters**:
+Take the measurements below on the module **in millimeters**:
 
 ![IMG_20250415_160030_HDR](https://github.com/user-attachments/assets/f886047c-c0d5-45b7-b2d9-ac74b93131f1)
 
