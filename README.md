@@ -59,7 +59,7 @@ In FreeCad, on the top left tree you can select the `LogoZigbeeInserts` object. 
 
 <img width="188" alt="{D64C7A89-12E2-4EB4-A6D1-FB033AED5C36}" src="https://github.com/user-attachments/assets/57589943-6c9f-4433-852d-ca8f922ced8b" />
 
-This can be used to print small inserts with a red material, and glue them into the grooved logo in the main casing. This was you have a perfect Zigbee logo on the front of the module!
+This can be used to print small inserts with a red material, and glue them into the grooved logo in the main casing. This way you have a perfect Zigbee logo on the front of the module!
 
 ## Adjust tolerance & thickness of the casing
 - In FreeCad, on the top left, click on the section called `ddCasing`
