@@ -24,9 +24,9 @@ Click to install, then close and relaunch FreeCAD
 ## Step 2
 Take the measurements below on the module **in millileters**:
 
-![IMG_20250415_160039_HDR](https://github.com/user-attachments/assets/e64f5619-a900-4dd2-a1bf-563513e1d9de)
-
 ![IMG_20250415_160030_HDR](https://github.com/user-attachments/assets/f886047c-c0d5-45b7-b2d9-ac74b93131f1)
+
+![IMG_20250415_160039_HDR](https://github.com/user-attachments/assets/e64f5619-a900-4dd2-a1bf-563513e1d9de)
 
 ## Step 3
 - In FreeCad, open the `Zigbee module DIN mount.FCStd` file
