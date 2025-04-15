@@ -45,5 +45,22 @@ The 3D model should be recomputed automatically to match the values you input.
 ## Step 5
 Use this file with your usual slicer and print!
 
+# Options
+## Colored inserts for the Zigbee Logo
+
+In FreeCad, on the top left tree you can select the `LogoZigbeeInserts` object. Then export to STL as in Step 4 above.
+
+<img width="188" alt="{D64C7A89-12E2-4EB4-A6D1-FB033AED5C36}" src="https://github.com/user-attachments/assets/57589943-6c9f-4433-852d-ca8f922ced8b" />
+
+This can be used to print small inserts with a red material, and glue them into the grooved logo in the main casing. This was you have a perfect Zigbee logo on the front of the module!
+
+## Adjust tolerance & thickness of the casing
+- In FreeCad, on the top left, click on the section called `ddCasing`
 
 <img width="1024" alt="FreeCAD2" src="https://github.com/user-attachments/assets/d22d99e6-2e15-413f-8fb3-3b301c2538ca" />
+
+- in the data on the bottom left:
+  - adjust the `Thickness` parameter to increase or decrease the shell thickness. By default it is 2mm
+  - adjust the `Hole Compensation` depending on your 3D printer tolerance. Buy default, it is 0.5mm
+If the module is too loose in the casing, decrease this value. If the module has trouble getting in the casing, increase this value
+**Before you do this, please check your module measurements!**
