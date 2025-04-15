@@ -68,6 +68,6 @@ This can be used to print small inserts with a red material, and glue them into 
 
 - in the data on the bottom left:
   - adjust the `Thickness` parameter to increase or decrease the shell thickness. By default it is 2mm
-  - adjust the `Hole Compensation` depending on your 3D printer tolerance. Buy default, it is 0.2mm
+  - adjust the `Hole Compensation` depending on your 3D printer tolerance. By default, it is 0.2mm
 If the module is too loose in the casing, decrease this value. If the module has trouble getting in the casing, increase this value
 **Before you do this, please check your module measurements!**
