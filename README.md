@@ -1,4 +1,4 @@
-# Zigbee-module-DIN-mount
+# Zigbee module DIN mount
 This is a parametric casing to mount Zigbee Modules in a eletrical panel with a DIN rail
 - There is an engraved Zigbee logo on the front
 - There is a slot to put a label to identify the module once the electrical panel is closed
