@@ -7,7 +7,7 @@ Typically, modules that are below 45mm wide should fit an electrical panel witho
 
 This is designed in FreeCAD, and can then be exported to STL to print on a classic FDM 3D printer
 
-_If you like and use this project, you can [buy me coffee using PayPal](https://www.paypal.com/donate/?hosted_button_id=289SAWPP2UK94):_
+_If you like and use this project, you can [buy me coffee using PayPal](https://www.paypal.com/donate/?hosted_button_id=289SAWPP2UK94)_
 
 ## Step 1
 Install FreeCAD, if you haven't done so yet
